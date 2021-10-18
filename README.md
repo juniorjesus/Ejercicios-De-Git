@@ -8,7 +8,7 @@ Un módulo corto y bastante preciso de como aprenderemos a configurar nuestro en
 * Visual studio code y sus extensiones
 
 
-#Comandos y Notas de Git y Github
+#  Comandos y Notas de Git y Github
 
 ### Pull y Push
 
